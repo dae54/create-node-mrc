@@ -1,0 +1,27 @@
+
+welcome to create-node-mrc utility tool
+This utility tool helps to initialize a node express api.
+
+What do you want to do?
+[] Initialize new node express app (MRC) (1)
+[] Create a resource (2)
+[] Exit
+
+
+Case 1:
+    What is the name of your project? :___________
+    Select the directory of your projecet :(leave blank to use the current folder, supply a full directory Path):___________
+    Select addtional dependencies to add to your project, Core dependencies are (mongoose,)
+        [] jsonwebtoken
+        [] bcrypt
+
+
+Case 2:
+    What is the name of the resource :___________
+    Select additional files to be created
+        () Modal (for db management)
+        () Routes (for api linking)
+        () Utility (for utility tools)
+    
+Case 3:
+    Good bye
