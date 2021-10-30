@@ -12,4 +12,11 @@ node index.js
 ```
 
 ## AUTHOR
-Ernest Daniel Amani (dae54)
+Ernest Daniel Amani [dae54](https://github.com/dae54)
+
+## GIT
+### SOURCE CODES
+The proect source codes can be found at [this repository](https://github.com/dae54/create-node-mrc/)
+
+### ISSUE REPORTING
+For any issues, suggestions, report them [here](https://github.com/dae54/create-node-mrc/issues)
